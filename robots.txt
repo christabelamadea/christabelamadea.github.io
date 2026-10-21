@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://christabelamadea.github.io/sitemap.xml
